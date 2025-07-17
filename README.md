@@ -1,4 +1,4 @@
 # Blocks
 hi
 
-[blocksmobile.vercel.app](https://blocksmobile.vercel.app/)
+[my company](https://pegalos.vercel.app/)
